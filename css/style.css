@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.contairner {
+  max-width:  1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.site-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-heading {
+  text-align: center;
+  color: green;
+}
+
+.site-confic-list {
+  border: 2px solid;
+}

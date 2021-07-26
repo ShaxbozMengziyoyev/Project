@@ -11,7 +11,7 @@ body {
   line-height: 1.5;
 }
 
-.contairner {
+.container {
   max-width:  1140px;
   margin-left: auto;
   margin-right: auto;
@@ -31,5 +31,5 @@ body {
 }
 
 .site-confic-list {
-  border: 2px solid;
+  border: 2px solid green;
 }
